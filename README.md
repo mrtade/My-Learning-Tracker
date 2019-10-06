@@ -1,6 +1,6 @@
 # My Learning Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Web%20Dev%20learning%20tracker%20&url=https://github.com/Syknapse/My-Learning-Tracker&via=syknapse&hashtags=100DaysofCode)
 
-A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
+A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning. Inspiration from the original my-learning-tracker https://github.com/Syknapse/My-Learning-Tracker 
 
 
 ----
@@ -53,105 +53,21 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Feb 2019 | [The Complete JavaScript Handbook]                              | [Flavio Copes]                              |
-| ![Completed][Completed]     | Jan 2019 | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
-| ![Completed][Completed]     | Aug 2018 | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
-| ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
-| ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
-| ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
-| ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                | Kyle Simpson                                |
+| ![Completed][Completed]     | Aug 2019 | [Build Responsive Real World Websites with HTML5 and CSS3]      | Jonas Schmedtmann                           |
+| ![Completed][Completed]     | Oct 2019 | [JavaScript: Understanding the weird parts]                     | Anthony Alicea                              |
+| ![In Progress][In Progress] | Oct 2019 | [The Complete 2019 Web developer bootcamp]                      | Angelu Yu                                   |
+| ![In Progress][In Progress] | Oct 2019 | [The Complete JavaScript course 2019]                           | Jonas Schmedtmann                           |
+| ![Soon][Soon]               |          | [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)]   | Maximilian Schwarzmüller                    |
+| ![Soon][Soon]               |          | [React - The Complete Guide (incl Hooks, React Router, Redux)]  | Maximilian Schwarzmüller                    |
 
 [//]: # (Reference links to courses)
 
-[The Complete JavaScript Handbook]: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
-[JavaScript clean code guide]: https://github.com/ryanmcdermott/clean-code-javascript
-[Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
-[JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
-[You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
-[Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
-[Learning Git and GitHub]: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
-[CSS Essential Training 3]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html
-[CSS Essential Training 2]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html
-[Getting Your Website Online]: https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html
-[Learn Enough Command Line to Be Dangerous]: https://www.learnenough.com/command-line-tutorial
-[Basic Front End Development Projects]: https://www.freecodecamp.org/syknapse
-[The Web Developer Bootcamp - Frond End]: https://www.udemy.com/the-web-developer-bootcamp
-[The Web Developer Bootcamp - Back End]: https://www.udemy.com/the-web-developer-bootcamp
-[Front End Development]: https://www.freecodecamp.org/syknapse
-[Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
-[JavaScript30]: https://javascript30.com/
-[JavaScript & jQuery]: http://javascriptbook.com/
-[Eloquent JavaScript]: http://eloquentjavascript.net/
-[Learn CSS Grid]: https://scrimba.com/g/gR8PTE
-[The Beginner's Guide to Reactjs]: https://egghead.io/courses/the-beginner-s-guide-to-reactjs
-
-[//]: # (Reference links to tutors)
-
-[Flavio Copes]: https://twitter.com/flaviocopes
-[Ryan McDermott]: https://github.com/ryanmcdermott
-[Cassidy Williams]: https://twitter.com/cassidoo
-[Christina Truong]: https://twitter.com/christinatruong
-[Lynda.com]: https://www.lynda.com
-[Ray Villalobos]: https://twitter.com/planetoftheweb
-[Michael Hartl]: https://twitter.com/mhartl
-[Free Code Camp]: https://www.freecodecamp.org
-[Udemy]: https://www.udemy.com
-[Udacity]: https://www.udacity.com
-[Wes Bos]: https://twitter.com/wesbos
-[Marijn Haverbeke]: https://twitter.com/MarijnJH
-[Per Harald Borgen]: https://twitter.com/perborgen
-[Scrimba]: https://scrimba.com/
-[Kent C Dodds]: https://egghead.io/instructors/kentcdodds
-[egghead.io]: https://egghead.io/
-
-### Paths
-
-| Paths with multiple resources                             |            Author            |
-|:----------------------------------------------------------|:----------------------------:|
-| [33 concepts every JavaScript developer should know]      | [Leonardo Maldonado]         |
-| [Best JavaScript books, tutorials, courses & videos]      | [ReactDOM]                   |
-| [Learn to code in 2018]                                   | [Andrei Neagoie]             |
-| [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
-| [Full Stack Web Developer Path]                           | [Shovan Chatterjee]          |
-
-[//]: # (Reference links to paths)
-
-[33 concepts every JavaScript developer should know]: https://github.com/leonardomso/33-js-concepts
-[Best JavaScript books, tutorials, courses & videos]: https://reactdom.com/blog/javascript-books
-[Learn to code in 2018]: https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a
-[Get Job ready - JavaScript Edition]: https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md
-[Full Stack Web Developer Path]: https://github.com/shovanch/fullstack-web-developer-path
-
-[//]: # (Reference links to authors)
-[Leonardo Maldonado]: https://github.com/leonardomso
-[ReactDOM]: https://reactdom.com
-[Andrei Neagoie]: https://twitter.com/AndreiNeagoie
-[P1xt]: https://github.com/P1xt
-[Shovan Chatterjee]: https://github.com/shovanch
-
-----
-
-## Highlights
-
-The most interesting of what I'm watching, reading, and doing:
-
-[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
-
-And here is a chronological log of the highlights of my learning:
-
-[**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
+[Build Responsive Real World Websites with HTML5 and CSS3]: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3
+[JavaScript: Understanding the weird parts]: https://www.udemy.com/course/understand-javascript
+[The Complete 2019 Web developer bootcamp]: https://www.udemy.com/course/the-complete-web-development-bootcamp
+[The Complete JavaScript course 2019]: https://www.udemy.com/course/the-complete-javascript-course
+[NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)]: https://www.udemy.com/course/nodejs-the-complete-guide
+[React - The Complete Guide (incl Hooks, React Router, Redux)]: https://www.udemy.com/course/react-the-complete-guide-incl-redux
 
 ----
 
@@ -159,9 +75,13 @@ And here is a chronological log of the highlights of my learning:
 
 I'm currently interested in/excited about:
 
++ APIs
++ GraphQL
 + React
++ Vue
 + JavaScript best practice
 + Object Oriented Programming
++ Functional Programming
 
 ----
 
@@ -176,35 +96,33 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
 * [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
+* [ ] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
-* [x] Follow developers you admire on social media
+* [ ] Follow developers you admire on social media
 * [ ] Read a book about coding
 * [x] Open your browser console
 * [x] Get data from an API
-* [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
+* [x] Hide API keys from the public
+* [ ] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
+* [ ] Complete a technical interview
 * [ ] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
 * [x] Get paid to code
-* [x] When people ask what you do, respond saying you’re a developer :)
+* [ ] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
 If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
-
 ----
 
 ### Acknowledgments
 
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
+This has been inspired by the original https://github.com/Syknapse/My-Learning-Tracker 
 
 ### License
 
