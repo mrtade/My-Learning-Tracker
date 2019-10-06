@@ -1,6 +1,6 @@
-# My Learning Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Web%20Dev%20learning%20tracker%20&url=https://github.com/Syknapse/My-Learning-Tracker&via=syknapse&hashtags=100DaysofCode)
+# My Learning Tracker 
 
-A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning. Inspiration from the original my-learning-tracker https://github.com/Syknapse/My-Learning-Tracker 
+A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning. Inspiration from the original my-learning-tracker https://github.com/Syknapse/My-Learning-Tracker to monitor my own progress.
 
 
 ----
@@ -111,7 +111,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [x] Get paid to code
+* [ ] Get paid to code
 * [ ] When people ask what you do, respond saying you’re a developer :)
 
 ----
