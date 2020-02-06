@@ -17,7 +17,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**ES6**                           | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**React**                         | ![done][done]     |               |                            |                  |                |                 |
 |**jQuery**                        | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**SASS & Flex-box**               | ![done][done]     | ![done][done] |                            |                  |                |                 |
+|**SASS & Flex-box**               | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done]              | ![done][done]    |                |                 |
 |**Website Building**              | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
@@ -29,7 +29,7 @@ A complete log of my web development skills, learning, resources, highlights, in
 |**Express**                       | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**MongoDB**                       | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**Mongoose CRUD**                 | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
-|**DOM Manipulation**              | ![done][done]     |               |                            |                  |                |                 |
+|**DOM Manipulation**              | ![done][done]     | ![done][done] |                            |                  |                |                 |
 |**EJS**                           | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**NoSQL**                         | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
 |**JSON**                          | ![done][done]     | ![done][done] | ![done][done]              |                  |                |                 |
@@ -98,7 +98,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Write tests for your code
 * [ ] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
-* [ ] Follow developers you admire on social media
+* [x] Follow developers you admire on social media
 * [ ] Read a book about coding
 * [x] Open your browser console
 * [x] Get data from an API
@@ -111,8 +111,8 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [ ] Get paid to code
-* [ ] When people ask what you do, respond saying you’re a developer :)
+* [x] Get paid to code
+* [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
